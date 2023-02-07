@@ -1,4 +1,4 @@
-,Data From,Data To,Name,Type,Count,Amount,Year,State,Quater
+,Data_From,Data_To,Name,Type,Count,Amount,Year,State,Quater
 0,1514745000000,1522175400000,Recharge & bill payments,TOTAL,3550,927250.7143707818,2018,ladakh,Q1
 1,1514745000000,1522175400000,Peer-to-peer payments,TOTAL,1752,10767803.999610368,2018,ladakh,Q1
 2,1514745000000,1522175400000,Merchant payments,TOTAL,320,369327.62555241917,2018,ladakh,Q1
