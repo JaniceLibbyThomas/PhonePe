@@ -270,7 +270,7 @@ def uploading_into_Database():
     TOP_USER_STATE_with_pincode.to_sql('TOP_User_INDIA_pincode',conn)
     print('Table 14')
     
-    table 15,16:
+    #table 15,16:
     
     TOP_USER_DIST['state'] = TOP_USER_DIST['state'].str.replace("-"," ")
     TOP_USER_DIST['state'] = TOP_USER_DIST['state'].str.capitalize()
